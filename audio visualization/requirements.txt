@@ -1,0 +1,6 @@
+streamlit
+sounddevice
+scipy
+stability-sdk
+Pillow
+librosa
