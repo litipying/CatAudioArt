@@ -44,13 +44,12 @@ STABILITY_AI_API_KEY=<your-stability-ai-api-key>
 ```
 
 ## Project Structure
-voice-to-art-generator/
-├── main.py
-├── .env
-├── requirements.txt
-├── README.md
-├── audio_files/ # Temporary audio storage
-└── venv/ # Virtual environment
+voice-to-art-generator/<br/>
+├── main.py<br/>
+├── requirements.txt<br/>
+├── README.md<br/>
+├── audio_files/ # Temporary audio storage<br/>
+└── venv/ # Virtual environment<br/>
 
 ## Running the Application
 
